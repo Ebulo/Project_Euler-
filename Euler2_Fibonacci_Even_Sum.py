@@ -1,4 +1,4 @@
-# Let's first try to achieve the fibonacci sequence
+
 n = int(input("Till what number do you want to calculate?"))
 series = [0, 1]
 
