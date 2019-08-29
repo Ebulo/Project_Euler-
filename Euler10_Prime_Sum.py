@@ -1,4 +1,4 @@
-# Taken Help
+
 import itertools
 pbn = 2000000
 numbers = list(range(3, pbn, 2))
