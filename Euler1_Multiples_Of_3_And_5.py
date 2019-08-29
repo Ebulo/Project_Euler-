@@ -1,5 +1,5 @@
 def mul():
-    n = int(input("how many numbers"))
+    n = 1001
     sm = 0
     for i in range(n):
         if i % 3 == 0 or i % 5 == 0:
@@ -7,4 +7,4 @@ def mul():
     return sm
 
 
-print(mul()) # Should I write Comments That I wrote in my copy
+print(mul())
