@@ -1,5 +1,5 @@
 
-n = int(input("Till what number do you want to calculate?"))
+n = 4000000
 series = [0, 1]
 
 def fib(n):
