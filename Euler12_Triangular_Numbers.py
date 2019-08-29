@@ -1,4 +1,4 @@
-# It takes some time to show you the answer please wait ....
+
 from math import sqrt
 
 def count(n):
