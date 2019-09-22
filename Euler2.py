@@ -13,4 +13,4 @@ def fib(n):
         if c % 2 == 0:
             sm += c
     return sm
-print(fib(n))
+print(fib(n)) 
